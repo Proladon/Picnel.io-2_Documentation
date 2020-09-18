@@ -1,5 +1,8 @@
 # Introduction
 
+## Why I developed Picnel.io 2
+So there
+
 ## What Picnel.io can do
 You can import and preview files containing a large number of uncategorized pictures, videos, and music folders. At the same time, users can import folders scattered at various depth levels into Picnel.io to create links (shortcuts), and you can Create groups in the software to classify the imported folders.
 In this way, while previewing the file, the user can easily use the folder link (shortcut) just created to copy/move the file to the folder.

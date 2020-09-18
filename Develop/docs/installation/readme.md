@@ -4,8 +4,8 @@ The code is completely public on [Github](https://github.com/Proladon/Picnel.io-
 
 ### [Newest version](https://github.com/Proladon/Picnel.io-2/releases/)
 
-### Windows: [Download](https://github.com/Proladon/Picnel.io-2/releases/download/1.0.2/Picnel.io.2.Setup.1.0.2.exe)
+### Windows: [1.0.3 Beta](https://github.com/Proladon/Picnel.io-2/releases/download/1.0.3/Picnel.io.2.Setup.1.0.3.exe)
 
-### MacOS: `Not Tested and Released yet`
+### MacOS: `Not Tested and Released yet` (I don't have MacOS platform)
 
-### Linux: `Not Tested and Released yet`
+### Linux: [1.0.3 Beta](https://github.com/Proladon/Picnel.io-2/releases/download/1.0.3/Picnel.io_2.tar.gz)
