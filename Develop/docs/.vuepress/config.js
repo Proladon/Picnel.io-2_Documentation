@@ -34,6 +34,7 @@ module.exports = {
                     '/',
                     '/installation/',
                     '/introduction/',
+                    '/cache/',
                     '/contributes/',
                 ],
             },
@@ -43,6 +44,7 @@ module.exports = {
                     '/tw/',
                     '/tw/installation/',
                     '/tw/introduction/',
+                    '/tw/cache/',
                     '/tw/contributes/',
                 ],
             }
