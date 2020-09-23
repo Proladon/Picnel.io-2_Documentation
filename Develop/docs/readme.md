@@ -22,7 +22,7 @@ First select a group, which will determine which group the folder will be added 
 You can also use drag or drop button to import the folder, but it should be noted that the upload button currently only supports single folder upload, and there must be at least one file in the folder.
 The imported folder is called "Target Folder".
 ### folder link
-<Expandbtn imgsrc="https://i.imgur.com/0tmAB4l.gif"/>
+<Expandbtn imgsrc="https://i.imgur.com/UiVDvXE.gif"/>
 
 
 ## STEP.4 Copy/Move Files

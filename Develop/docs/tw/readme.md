@@ -22,7 +22,7 @@
 同樣可以使用拖曳或是上船按鈕的方式將資料夾引入，但要注意的是目前上傳按鈕只支援單個資料夾上傳，並且該資料夾內必須至少有一個檔案。
 引入後的資料夾我們稱之為 `目標資料夾(Target Folder)`。
 ### 建立資料夾連結
-<Expandbtn imgsrc="https://i.imgur.com/0tmAB4l.gif"/>
+<Expandbtn imgsrc="https://i.imgur.com/UiVDvXE.gif"/>
 
 
 ## STEP.4 複製/移動 檔案
